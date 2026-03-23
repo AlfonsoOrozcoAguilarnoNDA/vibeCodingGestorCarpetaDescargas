@@ -1,4 +1,5 @@
 <?php
+die ("Funciona pero mejor usar gestorgemini2_2.php");
 /**
  * PROYECTO: GESTOR DE CARPETA DE DOWNLOADS (ESPECIFICACIÓN V4)
  * Fecha: 25 de marzo de 2026
