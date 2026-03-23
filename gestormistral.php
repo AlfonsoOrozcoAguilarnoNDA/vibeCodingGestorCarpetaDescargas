@@ -1,9 +1,11 @@
+<?php
 /*
 Licencia : MIT
 Autor Alfonso Orozco Aguilar
 Coautor Mistral / lechat
 https://vibecodingmexico.com/gestor-de-carpeta-descargas/
 */
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
